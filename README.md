@@ -1,6 +1,11 @@
 # qt_note
 
-[官网文档](https://doc.qt.io)
+- [官网文档](https://doc.qt.io)
+- [终端安装Qt](#终端安装Qt)
+- [下载并安装qt-creator](#下载并安装qt-creator)
+- [配置](#配置)
+- [问题](#问题)
+- [参考](#参考)
 
 ------
 
